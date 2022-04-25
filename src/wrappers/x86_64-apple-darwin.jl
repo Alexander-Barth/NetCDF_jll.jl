@@ -4,13 +4,10 @@ export libnetcdf
 using HDF5_jll
 using Zlib_jll
 using LibCURL_jll
-using LibSSH2_jll
-using MbedTLS_jll
-using nghttp2_jll
 JLLWrappers.@generate_wrapper_header("NetCDF")
 JLLWrappers.@declare_library_product(libnetcdf, "@rpath/libnetcdf.19.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(HDF5_jll, Zlib_jll, LibCURL_jll, LibSSH2_jll, MbedTLS_jll, nghttp2_jll)
+    JLLWrappers.@generate_init_header(HDF5_jll, Zlib_jll, LibCURL_jll)
     JLLWrappers.@init_library_product(
         libnetcdf,
         "lib/libnetcdf.19.dylib",
