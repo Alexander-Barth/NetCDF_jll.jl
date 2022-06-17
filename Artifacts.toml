@@ -1,50 +1,50 @@
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "a4f33131418d5ff713061c7be759781c8bfa4da7"
+git-tree-sha1 = "f3d789316f135c7d1e8ba3d19caef45645ebc0d9"
 os = "macos"
 
     [[NetCDF.download]]
-    sha256 = "45f79cffb163101d7ff3dbb2e233165ef819cb7baf9a013b578954f6bccd4011"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.6+0/NetCDF.v400.902.6.aarch64-apple-darwin.tar.gz"
-[[NetCDF]]
-arch = "x86_64"
-git-tree-sha1 = "27d76cc3c6cdf51b146a4a2995fb0f0b9d3cdca1"
-os = "macos"
-
-    [[NetCDF.download]]
-    sha256 = "907b91a313a384902adb9046260a11969dae6ac115d5a3520e508c2bee5778ef"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.6+0/NetCDF.v400.902.6.x86_64-apple-darwin.tar.gz"
-[[NetCDF]]
-arch = "x86_64"
-git-tree-sha1 = "7698867e87d838acad81072352e39b391ea85cc2"
-os = "windows"
-
-    [[NetCDF.download]]
-    sha256 = "d56e61a60b2f1b1d9f68c5dc3c917aefd960cf68de46e5b000b6003ff429fc23"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.6+0/NetCDF.v400.902.6.x86_64-w64-mingw32.tar.gz"
-[[NetCDF]]
-arch = "x86_64"
-git-tree-sha1 = "226ee2ef5fa6873864628459c5930bcf6923e8e3"
-libc = "glibc"
-os = "linux"
-
-    [[NetCDF.download]]
-    sha256 = "86159b22fe270479f41abd8f4a9e56bcb1e331e5c7c3dcce1ebc26711bb1ab99"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.7+0/NetCDF.v400.902.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "3ada220fc11a74f00fbbae221c9ee3109af2d210d4404a6147416e565184f48b"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.aarch64-apple-darwin.tar.gz"
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "aff88f8b3185d30e8bc3a23da403d88afc876903"
+git-tree-sha1 = "bedffad2ad44176188ac6cbda1d8c083f3969d0e"
 libc = "glibc"
 os = "linux"
 
     [[NetCDF.download]]
-    sha256 = "8dfb6b3b0435a418842472c2f223364c744b779e41d8011681a03f79ce3959a4"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.7+0/NetCDF.v400.902.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "6848ff83a5fea9240ba88f479ca38203b6c5764feff9c071500865c74fd9ea6d"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.aarch64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "i686"
-git-tree-sha1 = "ad336bc4c5ea1af7178334ff5ace43994a3be323"
+git-tree-sha1 = "a18eff77f195cc2c7bc9f58292ffef98b367de82"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "7ce04ef556beeca6dce9cd0bd09d6ee01b23462eb0057d1669e62593e9216fea"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.8+0/NetCDF.v400.902.8.i686-w64-mingw32.tar.gz"
+    sha256 = "e2a56d4ced477ac8131d5eced2709e03177550d6ca5024ca2a9650a9b2c9ab1b"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.i686-w64-mingw32.tar.gz"
+[[NetCDF]]
+arch = "x86_64"
+git-tree-sha1 = "2b788818f6c69e403a4799fcc8e6803a0df7ec27"
+os = "macos"
+
+    [[NetCDF.download]]
+    sha256 = "a0b3dfd24cd977071d1416df91ebb6f77bc7ddcdcc3f89887e99d9e532d27616"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.x86_64-apple-darwin.tar.gz"
+[[NetCDF]]
+arch = "x86_64"
+git-tree-sha1 = "e7753c729f622fa15c51ef370f2ff7bbd53ab630"
+libc = "glibc"
+os = "linux"
+
+    [[NetCDF.download]]
+    sha256 = "2e4ed576a39ec423add61b75c6435f250194fa6d68f50613926dfc6d9f9708b0"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.x86_64-linux-gnu.tar.gz"
+[[NetCDF]]
+arch = "x86_64"
+git-tree-sha1 = "a9664d8769b18ab300b68816058143520a8fec7a"
+os = "windows"
+
+    [[NetCDF.download]]
+    sha256 = "73427baa8053f771e23f34c5eebbaa628e61554a374b40c528025eddfe1eaeee"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.9+0/NetCDF.v400.902.9.x86_64-w64-mingw32.tar.gz"
