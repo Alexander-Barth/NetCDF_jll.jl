@@ -17,7 +17,7 @@ The tarballs for `NetCDF_jll.jl` have been built from these sources:
 
 `NetCDF_jll.jl` is available for the following platforms:
 
-* `Windows i686` (`i686-w64-mingw32`)
+* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 
 ## Dependencies
 
