@@ -42,9 +42,9 @@ os = "linux"
     url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.12+0/NetCDF.v400.902.12.x86_64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "e3b96f6ac2bb213ecbcbce2ca0ac0bb43bf9561d"
+git-tree-sha1 = "44868186914d8879bc824c75bde5fd41f37f7384"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "c87be25d71fd6ef8aff067a4941c73b222a301fa9c4fb8b74c1c3ebcad4cd7a6"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.12+0/NetCDF.v400.902.12.x86_64-w64-mingw32.tar.gz"
+    sha256 = "10136356808999b84fb99fe696b116dafd94dced1f6600b157dc23d3134f7a9e"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.14+0/NetCDF.v400.902.14.x86_64-w64-mingw32.tar.gz"
