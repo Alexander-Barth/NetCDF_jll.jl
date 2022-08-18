@@ -1,50 +1,50 @@
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "95cc94d5101eee12a45a6e377b04fe94364f77d0"
+git-tree-sha1 = "9f665615355189eac19e8c1e648b13a544aa3fda"
 os = "macos"
 
     [[NetCDF.download]]
-    sha256 = "0b1b93a2febcb8ba6e2a08ac0e7874577b814877be2d3f205e57207cba677c29"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.aarch64-apple-darwin.tar.gz"
+    sha256 = "0b6281e359fe0d4b328541558f6572b519417473a4db1d2f1f75492ea883d9ae"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.aarch64-apple-darwin.tar.gz"
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "3b0d822f08977f282850b3c5cf5d40df78768e54"
+git-tree-sha1 = "b5840bab776744ba2973a081bc2f2398a66c5c9d"
 libc = "glibc"
 os = "linux"
 
     [[NetCDF.download]]
-    sha256 = "3284bdd02dbbc12f6f21e65f80eeec3e75c2f4daec759aa765620a8c646b96c8"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.aarch64-linux-gnu.tar.gz"
+    sha256 = "07991af4c91d13116ad50c98a00249ece042442efdb28483cfa8b0503042dd0d"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.aarch64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "i686"
-git-tree-sha1 = "4f41f53f6fe7292d86b8f23b158fcf9ce5c93fc6"
+git-tree-sha1 = "47b5810beab51919d24ad44a0664d04351c0ea36"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "cee8c2676990035e802bea186d18784b26595682dd2846d8121425c965ce04f7"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.i686-w64-mingw32.tar.gz"
+    sha256 = "7b847e9407c57ffb03c81d143bae25a9824343ca6fe076ef12565ca387e46ddd"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.i686-w64-mingw32.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "a29b561c20d75e6cba14380ada04fdf07bba766e"
+git-tree-sha1 = "abe2768bc5b34a3f2778eaeceebdad4f0a3aeeb4"
 os = "macos"
 
     [[NetCDF.download]]
-    sha256 = "976c769fcc6415d7afd7aa55536d098796028e84090f3c015f8bdb5576e3f098"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.x86_64-apple-darwin.tar.gz"
+    sha256 = "d0fa257ff6d758a7ebee2f0300699d07e9f7eb1665f950843c9b53fc63907f1b"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.x86_64-apple-darwin.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "8944847bc2df01c9868d3b6c29d1b997796f8685"
+git-tree-sha1 = "5b2ebd51fdb07364499e6f99245f1362fa4fc1a2"
 libc = "glibc"
 os = "linux"
 
     [[NetCDF.download]]
-    sha256 = "4b7e49a9d933b6ab13bbeeb0fe79e0fcf804472c460f48a94e21ebb3ddeb7b3c"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.x86_64-linux-gnu.tar.gz"
+    sha256 = "f956b42c78449bddd87d6478f13f44b40b390e2c7f489738a133ff1440b84f55"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.x86_64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "651bfc6eb54eb3634e604e838cecddd97edb994e"
+git-tree-sha1 = "009107e12088dc5ab85e89a065770af49b4e84d1"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "1f8c8a655001f6a72a55d3cd3642b31e41fc0b367b10e2e765d507ed76684cb9"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.24+0/NetCDF.v400.902.24.x86_64-w64-mingw32.tar.gz"
+    sha256 = "7228e9db805df6f8e8ab74fcb24d85599bc1d29e12afb1119ccda336bfdc134a"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.25+0/NetCDF.v400.902.25.x86_64-w64-mingw32.tar.gz"
