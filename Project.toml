@@ -1,6 +1,6 @@
 name = "NetCDF_jll"
 uuid = "7243133f-43d8-5620-bbf4-c2c921802cf3"
-version = "400.902.29+0"
+version = "400.902.30+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
