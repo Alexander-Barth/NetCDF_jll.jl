@@ -1,6 +1,6 @@
 name = "NetCDF_jll"
 uuid = "7243133f-43d8-5620-bbf4-c2c921802cf3"
-version = "400.902.233+0"
+version = "400.902.235+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -16,4 +16,4 @@ HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
 JLLWrappers = "1.2.0"
 julia = "1.6"
 LibCURL_jll = "7.73.0"
-HDF5_jll = "1.12.2"
+HDF5_jll = "1.14"
