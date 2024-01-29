@@ -93,51 +93,51 @@ os = "freebsd"
     url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.239+0/NetCDF.v400.902.239.x86_64-unknown-freebsd.tar.gz"
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "036f5995c2c7040f1bc5f74a7a61394b7bb80b75"
+git-tree-sha1 = "f2f4da661a3ca70c34ba7f41b03d338ee154a922"
 os = "macos"
 
     [[NetCDF.download]]
-    sha256 = "16e0869350a59314d91b8fa7994c7459dcde32e7b2cc889fc1ad49862b272bb8"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.aarch64-apple-darwin.tar.gz"
+    sha256 = "b81d81e79ce8eb5cf271c46e435e8beef665f93f7bfe747c529b4c4ae28e9a5c"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.aarch64-apple-darwin.tar.gz"
 [[NetCDF]]
 arch = "aarch64"
-git-tree-sha1 = "e73c868466d40e4f5eaabc5e87a3fffbd6d744c0"
+git-tree-sha1 = "77d1352cdf0d30c80565b1fe4d17e832067cfd04"
 libc = "glibc"
 os = "linux"
 
     [[NetCDF.download]]
-    sha256 = "dc30e4fcbaeeebb51d4591708c7fbb5c961ee588b410ea4e27944b82b129560f"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.aarch64-linux-gnu.tar.gz"
+    sha256 = "9c64055a3c0276c92b4d6f52a9e6e0dd7529d72bd6234b253045ac3791b27cf3"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.aarch64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "i686"
-git-tree-sha1 = "458beb9fc9ceb5bab64a81a1fc1d807d600291e7"
+git-tree-sha1 = "9c72cd2ba313b7e9173108d1e167394a299450b8"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "068265bc132e1b4b4307a2e9dbe28399838d30662f6644cc2365236c6ee7d08e"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.i686-w64-mingw32.tar.gz"
+    sha256 = "06d210c7cd913c647ab77760d2656f88e9fd8e9c55dabe9058365a7855b35c7c"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.i686-w64-mingw32.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "07921b8168ff36b0c56923958da36bf17a6fd545"
+git-tree-sha1 = "ce06e8e0e6d4c35585e4c5cc612f0616ae24bb96"
 os = "macos"
 
     [[NetCDF.download]]
-    sha256 = "ac14d9ee5281c2cd79e7dadc2e598b61d51270d0728a65db8d60dd2537a00600"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.x86_64-apple-darwin.tar.gz"
+    sha256 = "8f8dc75dc6daf3798eb01acb2a22214b4465c04fe2861aabbeaf31901c61d8ad"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.x86_64-apple-darwin.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "5a6ab42079352f021876ad821cd048de1482fae1"
+git-tree-sha1 = "39b906c6f6ce961b52924699da29a8c6189ceae6"
 libc = "glibc"
 os = "linux"
 
     [[NetCDF.download]]
-    sha256 = "4fce0ae2d01bfc75041f39d500616a977200fdae478b1ff16f6f010766e415a3"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.x86_64-linux-gnu.tar.gz"
+    sha256 = "b73c9bc46bf86d11e31832ce4bfdb17deb12dc869f29a4bad551d8a559b65f82"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.x86_64-linux-gnu.tar.gz"
 [[NetCDF]]
 arch = "x86_64"
-git-tree-sha1 = "70142a8c784215253518b7ecddbecfadeec36a89"
+git-tree-sha1 = "9e587c92993da9a5948f17e44eb184c7ba8f979f"
 os = "windows"
 
     [[NetCDF.download]]
-    sha256 = "9a98570b32badc1ffac8267d1bc8a8259ec897eebcfdbbb2b11ae9119dd81a8a"
-    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.240+0/NetCDF.v400.902.240.x86_64-w64-mingw32.tar.gz"
+    sha256 = "fd5fdf6cbe3f4a6a3942187843cbfd8077620cbb94d20a24e7ffeb9a82d4504c"
+    url = "https://github.com/Alexander-Barth/NetCDF_jll.jl/releases/download/NetCDF-v400.902.241+0/NetCDF.v400.902.241.x86_64-w64-mingw32.tar.gz"
