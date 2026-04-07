@@ -10,6 +10,7 @@ using Zlib_jll
 using Zstd_jll
 using libaec_jll
 using libzip_jll
+using MPIABI_jll
 using MPICH_jll
 using MPItrampoline_jll
 using OpenMPI_jll
@@ -22,7 +23,7 @@ JLLWrappers.@declare_executable_product(ncgen)
 JLLWrappers.@declare_executable_product(ncgen3)
 JLLWrappers.@declare_executable_product(ocprint)
 function __init__()
-    JLLWrappers.@generate_init_header(Blosc_jll, Bzip2_jll, HDF5_jll, LibCURL_jll, XML2_jll, Zlib_jll, Zstd_jll, libaec_jll, libzip_jll, MPICH_jll, MPItrampoline_jll, OpenMPI_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(Blosc_jll, Bzip2_jll, HDF5_jll, LibCURL_jll, XML2_jll, Zlib_jll, Zstd_jll, libaec_jll, libzip_jll, MPIABI_jll, MPICH_jll, MPItrampoline_jll, OpenMPI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libnetcdf,
         "lib/libnetcdf.22.dylib",
