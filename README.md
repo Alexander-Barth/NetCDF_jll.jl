@@ -16,12 +16,12 @@ The tarballs for `NetCDF_jll.jl` have been built from these sources:
 
 `NetCDF_jll.jl` is available for the following platforms:
 
-* `macOS aarch64` (`aarch64-apple-darwin`)
-* `Linux aarch64 {libc=glibc}` (`aarch64-linux-gnu`)
-* `Windows i686` (`i686-w64-mingw32`)
-* `macOS x86_64` (`x86_64-apple-darwin`)
-* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
-* `Windows x86_64` (`x86_64-w64-mingw32`)
+* `Platform("aarch64", "macos"; )` (`aarch64-apple-darwin`)
+* `Platform("aarch64", "linux"; libc = "glibc")` (`aarch64-linux-gnu`)
+* `Platform("i686", "windows"; )` (`i686-w64-mingw32`)
+* `Platform("x86_64", "macos"; )` (`x86_64-apple-darwin`)
+* `Platform("x86_64", "linux"; libc = "glibc")` (`x86_64-linux-gnu`)
+* `Platform("x86_64", "windows"; )` (`x86_64-w64-mingw32`)
 
 ## Dependencies
 
